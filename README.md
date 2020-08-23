@@ -21,7 +21,5 @@ additional steps to notice I had installed JavaFX:
 1. Make sure the module is targeting Java 8
 2. 
 You may not have to do these steps - I created the project before installing 
-JavaFX, which may have been the root of my problems.
+JavaFX, which may have been the root of my pr
 
-# For more information
-See [this blog post](http://functiontomymadness.blogspot.co.uk/2017/07/hello-world-in-javafx-with-kotlin-and.html)
